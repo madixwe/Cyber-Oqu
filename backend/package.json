@@ -1,12 +1,11 @@
 {
-"build": "npm install --build-from-source"{
   "name": "backend",
   "version": "1.0.0",
   "description": "Cyber Oqu API",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build": "npm install"
+    "build": "npm install --build-from-source"
   },
   "keywords": [],
   "author": "",
