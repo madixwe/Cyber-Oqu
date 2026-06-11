@@ -1,4 +1,5 @@
 {
+"build": "npm install --build-from-source"{
   "name": "backend",
   "version": "1.0.0",
   "description": "Cyber Oqu API",
